@@ -9,6 +9,6 @@
 
 写程序软件下载：octave 中文下载
 
-1. 监督学习：supervised learning（分类和回归）
-2. 非监督学习：supervised learning（聚类，训练样本通常不拥有标记信息）
+1. 监督学习：Supervised Learning（分类和回归）
+2. 非监督学习：Unsupervised Learning（聚类，训练样本通常不拥有标记信息）
 
